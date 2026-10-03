@@ -1,0 +1,7 @@
+requests
+pillow
+psutil
+numpy
+sounddevice
+faster-whisper
+pyttsx3
